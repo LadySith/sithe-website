@@ -11,7 +11,7 @@ weight = 5
 [interests]
   interests = [
     "E-learning",
-    "STEM Education",
+    "STEAM Education",
     "Game Design",
     "Human-Computer Interaction"
   ]
@@ -26,4 +26,4 @@ weight = 5
 
 # Biography
 
-Sithe Ncube co-founded a maker community and a game development community in her home country, Zambia. She is also a Computer Science and Mathematics student at Nelson Mandela University in Port Elizabeth, South Africa. She is currently the Sub-Saharan Africa Regional Organiser for the Global Game Jam and is working on getting more African locations to be a part of the worlds largest game development event. She is also an assistant program manager for the interactive arts and playful media festival, A MAZE. / Berlin and program manager for the associated festival A MAZE. / Johannesburg.
+Sithe Ncube is a programmer, community manager, STEAM activist and curious soul from Zambia. She is currently a Computer Science and Mathematics student at Nelson Mandela University in Port Elizabeth, South Africa working towards completing a BSc Honours in Computer Science and Information Systems in 2020. She is currently the Sub-Saharan Africa Regional Organiser for the Global Game Jam and enjoys getting more African locations to be a part of the worlds largest game development event.

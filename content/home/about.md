@@ -11,9 +11,9 @@ weight = 5
 [interests]
   interests = [
     "Education",
-    "Android Development",
     "Game Design",
-    "Human-Computer Interaction"
+    "Connecting, celebrating, and supporting women in games",
+    "Improving access to resources for game developers in Africa"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -31,4 +31,4 @@ weight = 5
 
 # Biography
 
-Sithe believes that more Africans should have a visible stake in the game development industry and benefit financially, culturally and socially from telling their own stories. She does her part in encouraging more people to make games by facilitating introductory game development and interactive fiction workshops. Sithe also enjoys promoting the growth of game development by connecting more Africans to the world's biggest game development event, Global Game Jam, as one of the Sub-Saharan Africa regional organizers for the event. Sithe is currently a postgraduate Computer Science student at Nelson Mandela University and is the founder of prosearium.net, an initiative with the goal of documenting 1000 African women and their contributions to games.
+Sithe believes that more Africans should have a visible stake in the game development industry and benefit financially, culturally and socially from telling their own stories. She does her part in encouraging more people to make games by facilitating introductory game development and interactive fiction workshops. Sithe also enjoys promoting the growth of game development by connecting more Africans to the world's biggest game development event, [Global Game Jam](https://globalgamejam.org/), as one of the Sub-Saharan Africa regional organizers for the event. She recently completed a degree in Computer Science and Information Systems at Nelson Mandela University and is beginning a full time career in the games industry while also being an advisor for Humble Games' [Black Game Developer Fund](https://www.humblegames.com/blackgamedevfund/). Sithe is the founder of prosearium.net, an initiative with the goal of documenting 1000 African women and their contributions to games.

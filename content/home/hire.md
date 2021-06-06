@@ -16,11 +16,8 @@ weight = 60
 +++
 
 I'm available part time for
-
-- Content creation (article writing, biography writing, CVs)
+- Speaking
+- Article writing
 - Teaching K-12 (Programming, Computer Science, Physical Sciences and Mathematics)
-- Web Development (personal and portfolio sites)
-- Android Development
-- Design (Graphics design and software mockups)
 
 {{% staticref "files/cv.pdf" %}}Download my CV{{% /staticref %}}
